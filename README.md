@@ -1,0 +1,1 @@
+# oras-credentials-go-extended
