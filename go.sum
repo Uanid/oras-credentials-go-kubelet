@@ -1,0 +1,14 @@
+github.com/opencontainers/go-digest v1.0.0 h1:apOUWs51W5PlhuyGyz9FCeeBIOUDA/6nW8Oi/yOhh5U=
+github.com/opencontainers/go-digest v1.0.0/go.mod h1:0JzlMkj0TRzQZfJkVvzbP0HBR3IKzErnv2BNG4W4MAM=
+github.com/opencontainers/image-spec v1.1.0-rc4 h1:oOxKUJWnFC4YGHCCMNql1x4YaDfYBTS5Y4x/Cgeo1E0=
+github.com/opencontainers/image-spec v1.1.0-rc4/go.mod h1:X4pATf0uXsnn3g5aiGIsVnJBR4mxhKzfwmvK/B2NTm8=
+github.com/oras-project/oras-credentials-go v0.3.0 h1:Bg1d9iAmgo50RlaIy2XI5MQs7qL00DB3R9Q4JRP1VWs=
+github.com/oras-project/oras-credentials-go v0.3.0/go.mod h1:fFCebDQo0Do+gnM96uV9YUnRay0pwuRQupypvofsp4s=
+golang.org/x/sync v0.3.0 h1:ftCYgMx6zT/asHUrPw8BLLscYtGznsLAnjq5RH9P66E=
+golang.org/x/sync v0.3.0/go.mod h1:FU7BRWz2tNW+3quACPkgCx/L+uEAv1htQ0V83Z9Rj+Y=
+k8s.io/api v0.28.1 h1:i+0O8k2NPBCPYaMB+uCkseEbawEt/eFaiRqUx8aB108=
+k8s.io/api v0.28.1/go.mod h1:uBYwID+66wiL28Kn2tBjBYQdEU0Xk0z5qF8bIBqk/Dg=
+k8s.io/kubelet v0.28.1 h1:QRfx+jrzNgkLnMSw/nxGkAN7cjHPO446MDbjPITxLkk=
+k8s.io/kubelet v0.28.1/go.mod h1:xYBbbJ0e2Rtb/hv+QFie448lFF81J990ImIptce2AHk=
+oras.land/oras-go/v2 v2.2.1 h1:3VJTYqy5KfelEF9c2jo1MLSpr+TM3mX8K42wzZcd6qE=
+oras.land/oras-go/v2 v2.2.1/go.mod h1:GeAwLuC4G/JpNwkd+bSZ6SkDMGaaYglt6YK2WvZP7uQ=

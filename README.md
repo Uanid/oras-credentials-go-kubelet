@@ -1,1 +1,1 @@
-# oras-credentials-go-extended
+# oras-credentials-go-kubelet
